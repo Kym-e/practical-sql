@@ -1,0 +1,15 @@
+Comparison and matching operators in Postgre SQL
+
+Operator    Function
+--------    --------
+=           Equal to
+<> or !=    Not equal to
+>           More than
+<           Less than
+>=          More than or equal to
+<=          Less than or equal to
+BETWEEN     Within a range
+IN          Match one of a set of values
+LIKE        Match a pattern (case sensitive)
+ILIKE       Match a pattern (Not case sensitive)
+NOT         Negates a condition
