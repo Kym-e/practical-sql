@@ -13,3 +13,10 @@ IN          Match one of a set of values
 LIKE        Match a pattern (case sensitive)
 ILIKE       Match a pattern (Not case sensitive)
 NOT         Negates a condition
+
+LIKE and ILIKE operators
+
+Operator          Function
+--------          --------
+%                 Wildcard matching one or more characters
+_ (underscore)    Wildcard matching just one character
