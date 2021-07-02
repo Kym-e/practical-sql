@@ -1,0 +1,6 @@
+Putting it all Together
+
+SELECT Column_names
+FROM table_name
+WHERE criteria
+ORDER BY column names;
